@@ -1,5 +1,5 @@
 # 2021_Spring_study_KYH
-inflearn_김영한님_Spring 강의
+inflearn_Younghan Kim_Spring lecture
 
 김영한님 인프런 페이지 : https://www.inflearn.com/users/@yh
 
