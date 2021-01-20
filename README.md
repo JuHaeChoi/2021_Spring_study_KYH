@@ -1,5 +1,5 @@
 # 2021_Spring_study_KYH
-inflearn_Younghan Kim_Spring lecture
+inflearn_Younghan Kim_Spring lecture_introduction
 
 IDE : IntelliJ(JAVA)
 
